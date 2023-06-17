@@ -5,6 +5,6 @@ package Aula.CI.Lena;
 
 public class Library {
     public boolean someLibraryMethod() {
-        return true;
+        return false;
     }
 }
